@@ -1,10 +1,10 @@
 ## INDSÆT NAVNET PÅ PRODUKTET 
 
-Dette er OS2's governance checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Er du projektleder, koordinator eller på anden måde ansvarlig for et OS2 produkt? Så lav en kopi af denne fil og navngiv den efter produktet. Derefter udfylder du checklisten og uploader den til det relevante repository under produktets Github. 
+Dette er OS2's governance checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Er du projektleder, koordinator eller på anden måde ansvarlig for et OS2 produkt? Så lav en kopi af denne fil og navngiv den efter produktet. Derefter udfylder du checklisten og uploader den til det relevante repository under produktets Github.
 
 Du udfylder checklisten ved at skrive et x i de tomme [ ] ud for de krav produktet opfylder. Derudover udfylder du henvisningerne. Henvisningen må meget gerne være links, der forkortes ved at anvende hyperlinks = [tekst](link). 
 
-Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports/blob/33b3a24b97b02f93fe9485be82c2dde1a3b35913/OS2iot%20Governance%20Report.md) for eksempel.
+Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/master/OS2iot_GOVERNANCE_REPORT.md) for eksempel.
 
 > Brug for hjælp? [Kontakt endelige OS2s sekretariat](https://os2.eu/gruppe/os2sekretariat), vi er her for at hjælpe.
 
