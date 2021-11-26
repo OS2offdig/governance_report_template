@@ -65,7 +65,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 | --- | --- | --- | --- | --- |
 | <ul><li> [ ] </li> | S1 | Produktet har en kobling til OS2's strategi (indsæt link til OS2's strategi) | Hvordan? | 1 |
 | <ul><li> [ ] </li> | S2 | Løsningen understøtter innovation og Open Source | Hvordan? | 1 |
-| <ul><li> [ ] </li> | S3 | Produktets (forventlige) kobling til OS2's vision og strategi er beskrevet| Hvor? | 2 |
+| <ul><li> [ ] </li> | S3 | Produktets (forventlige) kobling til [OS2's mission, vision og strategi](https://os2.eu/side/os2-mission-vision) er beskrevet| Hvor? | 2 |
 | <ul><li> [ ] </li> | S4 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet | Hvordan? | 3 |
 
 
