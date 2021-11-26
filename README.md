@@ -83,7 +83,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2offdig/Governance_Reports
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
-| <ul><li> [ ] </li> | G1 | Produktet er oprettet i OS2's porteføljestyring | Indsæt link | 1 |
+| <ul><li> [ ] </li> | G1 | Produktet er oprettet i OS2's porteføljestyring (Hjemmeside) | Indsæt link | 1 |
 | <ul><li> [ ] </li> | G2 | Der koordineres løbende med OS2-sekretariatet  |  | 1 |
 | <ul><li> [ ] </li> | G3 | Der er udpeget en projektleder/tovholder | Hvem? evt. link til beskrivelse af ansvar/opgaver | 1 |
 | <ul><li> [ ] </li> | G4 | Bestyrelsen er orienteret | fx link til referat | 1 |
