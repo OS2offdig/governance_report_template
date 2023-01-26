@@ -73,7 +73,7 @@ OS2loop har en målsætning om at efterleve: **Niveau 2.**
 | [] | G13 | Der foreligger en aftale der sikrer økonomi til koordinering og videreudvikling | Ikke relevant pt. | 3 |
 | [] | G14 | Der etableres et fagligt fællesskab bag løsningen hvor erfaringer udveksles. | Ikke relevant pt. | 3 |
 
-##LOG
+## LOG
 
 | Dato | Handling | Udført af |
 | --- | --- |--- |
