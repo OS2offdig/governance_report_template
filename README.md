@@ -1,15 +1,17 @@
-## INDSÆT NAVNET PÅ PRODUKTET 
+# INDSÆT NAVNET PÅ PRODUKTET 
 
-Dette er OS2's governance checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Er du projektleder, koordinator eller på anden måde ansvarlig for et OS2 produkt? Så lav en kopi af denne fil og navngiv den efter produktet. Derefter udfylder du checklisten og uploader den til det relevante repository under produktets Github.
+Dette er OS2's governance checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Er du projektleder, koordinator eller på anden måde ansvarlig for et OS2 produkt? Så lav en kopi af denne fil og navngiv den efter produktet. Derefter udfylder du checklisten, sender den til OS2-sekretariatet eller uploader den til det relevante repository på Github.
 
 Du udfylder checklisten ved at skrive et x i de tomme [] ud for de krav produktet opfylder. Derudover udfylder du henvisningerne. Henvisningen må meget gerne være links, der forkortes ved at anvende hyperlinks = [tekst](link). 
 
 Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/master/OS2iot_GOVERNANCE_REPORT.md) for eksempel.
 
-> Brug for hjælp? [Kontakt endelige OS2s sekretariat](https://os2.eu/gruppe/os2sekretariat), vi er her for at hjælpe.
+> Har du spørgsmål? [Kontakt OS2's sekretariat](https://os2.eu/kontakt), vi er her for at hjælpe.
+
+> Information om OS2's produktniveauer og baggrunden herfor kan der [læses mere om her](https://os2.eu/side/governance).
 
 
-**RELEVANS**
+## RELEVANS
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
@@ -19,10 +21,7 @@ Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/mast
 | [] | R4 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Hvordan? | 2 |
 | [] | R5 | Ophæng til nationale strategier er til stede | Hvordan/hvilke? | 3 |
 
-<br>
-<br>
-
-**FORMKRAV**
+## FORMKRAV
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
@@ -49,10 +48,8 @@ Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/mast
 | [] | F21 | Politisk kommunikation er udarbejdet (Lokal + Omverden) | Hvor? | 3 |
 | [] | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet ([eksempel](https://os2mo.readthedocs.io/en/development/operation/cookbook.html)) | Hvor? | 3 |  
 
-<br>
-<br>
 
-**STRATEGISK SAMMENHÆNG**
+## STRATEGISK SAMMENHÆNG
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
@@ -62,10 +59,8 @@ Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/mast
 | [] | S4 | Der er udarbejdet en vision og strategi for produktet | Hvor? | 2 |
 | [] | S5 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet | Hvordan? | 3 |
 
-<br>
-<br>   
 
-**GOVERNANCE**
+## GOVERNANCE
 
 |     |  #  | Krav | Henvisning | Niveau | 
 | --- | --- | --- | --- | --- |
@@ -83,4 +78,11 @@ Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/mast
 | [] | G12 | Bestyrelsen er repræsenteret i styregruppen | fx link til referat | 3 |
 | [] | G13 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling | Link til aftale | 3 |
 | [] | G14 | Der er etableret et fagligt fælleskab bag løsningen hvor erfaringer kan udveksles | Henvisning til en faggruppe eller et forum | 3 |
-  
+
+
+##LOG
+
+| Dato | Handling | Udført af |
+| --- | --- |--- |
+| 2023-01-26 | Husk at hold loggen opdateret | Rasmus Frey, OS2-sekretariatet |
+
