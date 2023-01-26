@@ -8,6 +8,10 @@ OS2loop har en målsætning om at efterleve: **Niveau 2.**
 
 > Information om OS2's produktniveauer og baggrunden herfor kan der [læses mere om her](https://os2.eu/side/governance).
 
+## BILAG
+
+- Find alle bilag i [denne mappe](https://boks.os2.eu/s/JogdzkqRBi2cqHQ)
+
 ## RELEVANS
 
 |     |  #  | Krav | Henvisning | Niveau | 
