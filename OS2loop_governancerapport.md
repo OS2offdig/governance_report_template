@@ -57,7 +57,7 @@ OS2loop har en målsætning om at efterleve: **Niveau 2.**
 ## GOVERNANCE
 
 |     |  #  | Krav | Henvisning | Niveau | 
-| --- | --- | --- | --- | --- ||
+| --- | --- | --- | --- | --- |
 | [x] | G1 | Produktet er oprettet i OS2´s porteføljestyring | https://os2.eu/produkter | 1 |
 | [x] | G2 | Der koordineres løbende med OS2-sekretariatet | Ja. | 1 |
 | [x] | G3 | Der er udpeget en projektleder/tovholder | Tovholderfunktion ligger pt. hos Lasse Skjalm, Aarhus kommune og Martin Nygaard, Ballerup Kommune | 1 |
