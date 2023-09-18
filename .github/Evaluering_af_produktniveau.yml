@@ -1,0 +1,269 @@
+name: Produkt Evaulering
+description: Brug denne skabelon til at evaluere et OS2 produkt.
+title: '[Produktnavn]:'
+body:
+  - type: checkboxes
+    id: relevans-tjek
+    attributes:
+      label: 🎯 Relevans
+      description: >-
+        Læs mere her:
+        https://faq.os2.eu/relevans-produktniveauer-os2-projekter-og-produkter
+      options:
+        - label: Løsningen skaber lokal værdi.
+          required: true
+        - label: Løsningen skaber potentielt værdi for andre. (Niveau 1)
+          required: false
+        - label: Løsningen er accepteret af lokal linieledelse (Niveau 2)
+          required: false
+        - label: Løsningen har tværkommunalt potentiale (Niveau 2)
+          required: false
+        - label: Ophæng til nationale strategier er til stede (Niveau 3)
+          required: false
+  - type: textarea
+    id: relevans-henvisning
+    attributes:
+      label: 🔗 Henvisninger
+      description: 'Se eksempler her: https://udfyldt_gevinskort'
+      placeholder: Indsæt henvisninger til produktets relevans, værdiskabels og potentiale.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-deling-tjek
+    attributes:
+      label: 🔄  Deling
+      description: >-
+        Læs mere her:
+        https://faq.os2.eu/formkrav-produktniveauer-os2-projekter-og-produkter
+      options:
+        - label: Kildekoden deles
+          required: true
+        - label: Open Source licenskriterier overholdes
+          required: true
+        - label: Kildekoden placeres på OS2s Github (Niveau 1)
+          required: false
+        - label: OS2s værktøjer benyttes (Niveau 1)
+          required: false
+        - label: >-
+            Alt kode til det officielle udgivne produkt er  indsendt til
+            projektets officielle Os2 ejede repository (Niveau 2)
+          required: false
+  - type: textarea
+    id: formkrav-deling-henvisninger
+    attributes:
+      label: 🔗 Henvisninger
+      description: 'Se eksempler her: ??'
+      placeholder: >-
+        Indsæt henvisninger til kildekode, licenser og processer for udvikling
+        og deling af løsningen.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-kommunikation
+    attributes:
+      label: 📢 Kommunikation
+      description: >-
+        Læs mere her:
+        https://faq.os2.eu/formkrav-produktniveauer-os2-projekter-og-produkter
+      options:
+        - label: >-
+            Alt officiel kommunikation foregår via OS2s kommunikationskanaler
+            (Niveau 1)
+          required: false
+        - label: Kommunikationsmateriale til strategisk niveau udarbejdes (Niveau 2)
+          required: false
+        - label: Præsentationsmateriale af løsningen er udarbejdet (Niveau 2)
+          required: false
+        - label: Lokal politisk kommunikation er udarbejdet (Niveau 3)
+          required: false
+        - label: National politisk kommunikation er udarbejdet (Niveau 3)
+          required: false
+  - type: textarea
+    id: formkrav-kommunikation-henvisninger
+    attributes:
+      label: 🔗 Henvisninger
+      description: 'Se eksempler på materiale her: ??'
+      placeholder: Indsæt henvisninger til publiceret materiale her
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-dokumentation-tjek
+    attributes:
+      label: 📑 Dokumentation
+      options:
+        - label: >-
+            Løsningens formål og værdi er beskrevet i README.md i løsningens
+            officielle repository
+          required: true
+        - label: >-
+            Implementerings metode til løsningen er beskrevet i
+            GETTING_STARTED.md i det officielle repository (Niveau 1)
+          required: false
+        - label: >-
+            Teknisk dokumentation er placeret under ./docs i løsningens
+            officielle repository (Niveau 1)
+          required: false
+        - label: Best practice for implementering i organisationen er dokumenteret
+          required: false
+        - label: Teknisk dokumentation indeholder best practice for kodestandarder
+          required: false
+        - label: Drifts og vedligeholdelses setup er beskrevet
+          required: false
+        - label: Procesplan + procesansvar for driftsimplementering er udarbejdet
+          required: false
+          
+  - type: textarea
+    id: formkrav-dokumentation-henvisningner
+    attributes:
+      label: 🔗 Henvisninger
+      placeholder: >-
+        Indsæt henvisninger til arkitekturtegninger i det officielle repo,
+        tekniske... etc.
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-lovformelighed-tjek
+    attributes:
+      label: ⚖️ Lovformelighed
+      description: Læs mere -->
+      options:
+        - label: Alm. Lovformlighed er overholdt
+          required: true
+        - label: Udbudsregler er overholdt
+          required: true
+  - type: textarea
+    id: formkrav-lovformelighed-henvisninger
+    attributes:
+      label: 🔗 Henvisninger
+      description: Eksempler -->
+      placeholder: Henvisniger til lovformelighed
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-arkitektur-tjek
+    attributes:
+      label: 🧩 Arkitektur
+      description: Læs mere -->
+      options:
+        - label: >-
+            Løsningen leveres i containerformat til drift 
+            (Niveau 2)
+          required: false
+        - label: >-
+            Løsningen indeholder nem lokal udrulning af containere til udvikling 
+            (Niveau 2)
+          required: false
+        - label: >-
+            Løsningen har indarbejdet teknologier og praksis
+            til databeskyttelse gennem design og standardindstillinger (Niveau 2)
+            (test)[https://www.datatilsynet.dk/hvad-siger-reglerne/podcast/privacy-by-design-og-privacy-by-default]
+          required: false
+        - label : Rammearkitekturen og standarder er fulgt og/eller afvigelser er forklaret
+          required: false
+        
+  - type: textarea
+    id: formkrav-arkitektur-henvisninger
+    attributes:
+      label: 🔗 Henvisninger
+      description: Eksempler -->
+      placeholder: Henvisniger til arkitektur
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-strategi-tjek
+    attributes:
+      label: 🔭 Strategisk sammenhæng
+      description: Læs mere --> https://faq.os2.eu/strategisk-sammenhaeng-produktniveauer-os2-projekter-og-produkter
+      options:
+        - label: >-
+            Produktet har en kobling til OS2's strategi
+            (Niveau 1)
+          required: false
+        - label: >-
+            Løsningen understøtter innovation og Open Source
+            (Niveau 1)
+          required: false
+        - label: >-
+            Produktets (forventlige) kobling til OS2's vision og strategi er beskrevet (Niveau 2)
+          required: false
+        - label : Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet (Niveau 3)
+          required: false
+        
+  - type: textarea
+    id: formkrav-strategi-henvisninger
+    attributes:
+      label: 🔗 Henvisninger
+      description: Eksempler -->
+      placeholder: Henvisniger til strategi
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
+  - type: checkboxes
+    id: formkrav-governance-tjek
+    attributes:
+      label: 🤝🏼 Governance
+      description: Læs mere --> https://faq.os2.eu/strategisk-sammenhaeng-produktniveauer-os2-projekter-og-produkter
+      options:
+        - label: >-
+            Produktet er oprettet i OS2's porteføljestyring
+            (Niveau 1)
+          required: false
+        - label: Der koordineres løbende med OS2-sekretariatet (Niveau 1)
+          required: false
+        - label: >-
+            Der er udpeget en projektleder/tovholder
+            (Niveau 1)
+          required: false
+        - label: Bestyrelsen er orienteret (Niveau 1)
+        - label: >-
+            Bestyrelsen har godkendt produktet (Niveau 2)
+          required: false
+        - label : Der er nedsat en styregruppe (Niveau 2)
+          required: false
+        - label : Der er nedsat en koordinationsgruppegruppe (Niveau 2)
+          required: false
+        - label : En projektmodel anvendes og er dokumenteret (Niveau 2)
+          required: false
+        - label: Review af kode foretages af tredjepart (Niveau 2)
+          required: false
+        - label: Der er udarbejdet en tilslutningserklæring til sikring af økonomi (Niveau 2)
+          required: false
+        - label: Bestyrelsen har godkendt styregruppen (Niveau 3)
+          required: false
+        - label: Bestyrelsen er repræsenteret i styregruppen (Niveau 3)
+          required: false
+        - label: Der foreligger en aftale der sikre økonomi til koordinering og videreudvikling (Niveau 3)
+          required: false
+        - label: Der er etableret et fagligt fælleskab bag løsningen hvor erfaringer kan udveksles (Niveau 3)
+          required: false 
+  - type: textarea
+    id: formkrav-Governance-henvisninger
+    attributes:
+      label: 🔗 Henvisninger
+      description: Eksempler -->
+      placeholder: Henvisninger til governance
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: '---'
