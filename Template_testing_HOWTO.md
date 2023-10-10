@@ -6,7 +6,17 @@
 3. Open the test site: https://issue-forms-creator.netlify.app/
 4. Press the "+" sign in the upper right corner and choose the option "Paste yaml content"
 
+
 The YAML will be auto loaded into the test page from the clipboard, and you can proceed to verify that the form looks and works like expected.
+<details>
+
+<summary> 🎞️ See the UI workflow here </summary>
+
+### You can add a header
+
+![Adding template yaml](Add_template_yaml.gif)
+</details>
+
 
 ### ⚠️ Troubleshooting
 If nothing happends when pressing the "Paste yaml content" button, your clipboard contains somthing else than a valid yaml, try to copy the form yaml again.
@@ -15,6 +25,8 @@ If nothing happends when pressing the "Paste yaml content" button, your clipboar
 Q: Whats all the fuss about? Isnt it just at YAML file?
 
 A: Yup, if the tester prefers to test on the raw YAML, this is fine. It is a bit hard to catch visual rendering bugs though
+
+--
 
 Q: Why cant i just test directly in Github?
 
