@@ -11,9 +11,6 @@ The YAML will be auto loaded into the test page from the clipboard, and you can 
 <details>
 
 <summary> 🎞️ See the UI workflow here </summary>
-
-### You can add a header
-
 ![Adding template yaml](Add_template_yaml.gif)
 </details>
 
