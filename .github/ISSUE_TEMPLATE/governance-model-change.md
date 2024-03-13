@@ -3,7 +3,7 @@ name: Governance model change
 about: Use this template to register a change request to the governance model
 title: Governance template change
 labels: ''
-assignees: ''
+assignees: 'governance_template_maintainers'
 
 ---
 
@@ -24,5 +24,3 @@ assignees: ''
 ## Describe the proposed changes to the model: 
 **If the category of the change is to elaborate on the model, please describe the changes below**
 *example: I Propose to change the danish text from "xxx"  to: "xyx"
-
-@governance_template_maintainers
