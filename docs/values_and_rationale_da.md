@@ -12,7 +12,6 @@ _Ved at arbejde med og opbevare dokumentationen det samme sted som kildekoden bl
 #### 🎁 Lav Barriere for bidrag
 Bidrag til dokumentationen foregår i simple tekstdokumenter med enkel opmærkning og med frit valg imellem et væld af åbne værktøjer tilgængelige på alle platforme.  Det sikrer mere nøjagtig dokumentation og letter samarbejdet mellem udviklere og tekniske forfattere. 
 
-
 #### ✅ Konsistens og standardisering
 Dokumentationen kan holdes i en ensartet stil og formatering på tværs af alle dokumenter. Dette gør det lettere for brugere at navigere og forstå indholdet. 
 Det reducerer forvirring og sikrer, at alle dokumenter følger samme standar
@@ -30,7 +29,7 @@ _Med udnyttelse af moderne dokumenations teknologi og automatisering kan der med
 
 
 #### 🌐 Åben adgang
-Ved at gøre dokumentationen offentligt tilgængelig via en webside der indekseres, fjernes administrations og kommunikationsopgaver forbundet med at give adgang til dokumentationen. Alle interessenter kan nemt finde og bruge den via søgemetoder og søgemaskiner. Det sparer tid og gør det lettere for alle at få adgang til dokumentationen.
+Ved at gøre dokumentationen offentligt tilgængelig via en webside der indekseres af eksterne søgemotorer (som f.eks Google), fjernes administrations og kommunikationsopgaver forbundet med at give adgang til dokumentationen. Alle interessenter kan nemt finde og bruge den via deres foretrukne søgemetoder og søgemaskiner. Det sparer tid og gør det lettere for alle at få adgang til dokumentationen.
 
 #### :medal_military: Kvalitet og pålidelighed
  Automatisk opdatering af dokumentationen hver gang der udgives nye versioner af softwaren sikrer, at dokumentationen altid er ajourført. Dette reducerer risikoen for forældet eller unøjagtig information.
