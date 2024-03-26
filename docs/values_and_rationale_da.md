@@ -34,6 +34,11 @@ Ved at gøre dokumentationen offentligt tilgængelig via en webside der indekser
 
 #### :medal_military: Kvalitet og pålidelighed:
  Automatisk opdatering af dokumentationen hver gang der udgives nye versioner af softwaren sikrer, at dokumentationen altid er ajourført. Dette reducerer risikoen for forældet eller unøjagtig information.
+
+#### 🔎 Indbygget hurtig søgning
+Via automatisk indesering og et simpelt, globalt tilgængeligt søgefelt, foreslåes emner og afsnit der relaterer sig til de indtastede søgeord.
+Dermed understøttes en hurtig og nem adgang til præcis den dokumentation anvenderne efterspørger uden behov for manuelt vedligehold af indholdsfortegnelser og emneoversigter.
+
 3. Genbrug af hyldevarer
 4. Godkendelses drevet drift
 5. Transparente samarbejdsmetoder
