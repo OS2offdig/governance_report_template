@@ -14,13 +14,6 @@ Du udfylder checklisten ved at anvende en af de følgende markeringer, under  �
 
 Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 
-> [!TIP]
-Syntax til anvendelse af emojis i editorer der understøtter GitHub markdown emojis
->
->✅ - ```:white_check_mark: ```  |  ❌ - ``` :x: ``` | 
->➖ - ``` :heavy_minus_sign:``` | ❓ -  ``` :question: ```
-
-
 Se [OS2iot Governance Report.md](https://github.com/OS2iot/OS2IoT-docs/blob/master/OS2iot_GOVERNANCE_REPORT.md) for eksempel.
 
 > Har du spørgsmål? [Kontakt OS2's sekretariat](https://os2.eu/kontakt), vi er her for at hjælpe.
