@@ -5,7 +5,7 @@
 ##### 🇬🇧 [Read in english](../docs/values_and_rationale_en.md)
 
 
-## 1️⃣ Enkel og uafhængigt formatteret dokumentation
+## Enkel og uafhængigt formatteret dokumentation
 _Ved at arbejde med og opbevare dokumentationen det samme sted som kildekoden bliver det lettere at vedligeholde og sikre, at dokumentationen altid er opdateret._
 >###### Anvendte standarder & teknologier: [Markdown]() | [Github & Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) | [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
 
@@ -22,7 +22,7 @@ Dokumenter versionsstyres ved siden af kildekoden, med samme værktøjskasse. De
 > ###### ▶️ YouTube - [Documentation as code in UK public service](https://www.youtube.com/watch?v=Ql9Il7tssik)
 
 
-## 2️⃣ Automatiseret dokumentationsportal
+## Automatiseret dokumentationsportal
 _Med udnyttelse af moderne dokumenations teknologi og automatisering kan der med et minimum af arbejde leveres en ensartet udseende, åben, søgbar dokumentationsportal_
 >###### Anvendte teknologier: [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | [GitHub Pages]() | [Jekyll]() |  [JustTheDocs](https://just-the-docs.github.io/just-the-docs/)
 
@@ -38,8 +38,12 @@ Ved at gøre dokumentationen offentligt tilgængelig via en webside der indekser
 Via automatisk indesering og et simpelt, globalt tilgængeligt søgefelt, foreslåes emner og afsnit der relaterer sig til de indtastede søgeord.
 Dermed understøttes en hurtig og nem adgang til præcis den dokumentation anvenderne efterspørger uden behov for manuelt vedligehold af indholdsfortegnelser og emneoversigter.
 
-3. Genbrug af hyldevarer
-4. Godkendelses drevet drift
+
+## Genbrug af hyldevarer
+_for at sænke vedligeholdelse omkostninger og forhindre låsning til enkelte udviklerhuse teknologier eller hostingleverandører_ svarer overens med digitaliseringstyrelsens og kls arkitekturprincipper
+
+
+## 4. Godkendelses drevet drift
 5. Transparente samarbejdsmetoder
 6. Automatiseret ændringslog
 7. Hurtig skabelon til udrulning
