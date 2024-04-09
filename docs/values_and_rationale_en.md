@@ -1,12 +1,13 @@
 # Open Source from OS²
 
-## Businessvalue and effective operating benefits
+## Business values and effective operational advantages across applications
 
 ##### 🇩🇰 [Read in danish](../docs/values_and_rationale_da.md)
 
-## Low barriers for transparency and consistency in the documentation process
-_By working with and storing the documentation in the same place as the source code, it becomes easier to maintain and ensure that the documentation is always up to date._
-###### Standards & technologies used: [Markdown]() | [Github & Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) | [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
+## Low Barriers for Transparency and Consistency in the Documentation Process
+_By integrating our documentation process directly with the source code, we create a seamless environment for maintaining and updating our documentation, paving a clear path for keeping it up to date._
+
+###### Standards & technologies used: [Markdown](https://github.github.com/gfm/#what-is-github-flavored-markdown-) | [Github & Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) | [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
 
 #### 🎁 Low Barrier for contributions
 Contributions to the documentation take place in simple text documents with simple syntax and free choice between a multitude of open tools available on all platforms. It ensures more accurate documentation and facilitates collaboration between developers and technical writers.
@@ -18,10 +19,10 @@ It reduces confusion and ensures that all documents follow the same standard
 #### 🔀 Transparency and cooperation
 Documents are versioned alongside the source code, with the same toolbox. This allows you to see how the documentation has evolved and track changes. It improves transparency and collaboration, and reduces context switching making it easy to contribute to the documentation without interruption.
 
-## Streamlined current documentation with open access and built in search 
+## Streamlined up-to-date documentation with open access and built in search 
 _Using modern documentation technology and automation metods like Continous Integration, An open and searchable documentation portal is delivered automatically when the documentation is updated_
 
-###### Technologies and methods used: [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) | [Jekyll](https://jekyllrb.com/) | [JustTheDocs](https://just-the-docs.github.io/just-the-docs/)  [Continous Integration](https://www.ibm.com/topics/continuous-integration) 
+###### Technologies and methods used: [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) | [Jekyll](https://jekyllrb.com/) | [JustTheDocs](https://just-the-docs.github.io/just-the-docs/) | [Continous Integration](https://www.ibm.com/topics/continuous-integration) 
 
 #### 🌐 Open access
 By making the documentation publicly available via a web page that is indexed by external search engines (like Google), the administration and communication tasks associated with providing access to the documentation are removed. All stakeholders can easily find and use it via their preferred search methods and search engines. This saves time and makes it easier for everyone to access the documentation.
