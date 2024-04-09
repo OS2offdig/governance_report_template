@@ -4,7 +4,7 @@
 
 ##### 🇩🇰 [Read in danish](../docs/values_and_rationale_da.md)
 
-## 1️⃣ Ensuring Consistent & Relevant Documentation
+## Low barriers for transparency and consistency in the documentation process
 _By working with and storing the documentation in the same place as the source code, it becomes easier to maintain and ensure that the documentation is always up to date._
 ###### Standards & technologies used: [Markdown]() | [Github & Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) | [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
 
@@ -18,20 +18,21 @@ It reduces confusion and ensures that all documents follow the same standard
 #### 🔀 Transparency and cooperation
 Documents are versioned alongside the source code, with the same toolbox. This allows you to see how the documentation has evolved and track changes. It improves transparency and collaboration, and reduces context switching making it easy to contribute to the documentation without interruption.
 
-## 2️⃣ Open access to streaminlined searchable documentation
-_Using modern documentation technology and automation, open, searchable documentation is delivered with a minimum of work_
+## Streamlined current documentation with open access and built in search 
+_Using modern documentation technology and automation metods like Continous Integration, An open and searchable documentation portal is delivered automatically when the documentation is updated_
 
-###### Technologies used: [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | [GitHub Pages]() | [Jekyll]() | [JustTheDocs](https://just-the-docs.github.io/just-the-docs/)
+###### Technologies and methods used: [GitHub Actions](https://docs.github.com/en/actions/learn-github-actions/understanding-github-actions) | [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) | [Jekyll](https://jekyllrb.com/) | [JustTheDocs](https://just-the-docs.github.io/just-the-docs/)  [Continous Integration](https://www.ibm.com/topics/continuous-integration) 
 
 #### 🌐 Open access
 By making the documentation publicly available via a web page that is indexed by external search engines (like Google), the administration and communication tasks associated with providing access to the documentation are removed. All stakeholders can easily find and use it via their preferred search methods and search engines. This saves time and makes it easier for everyone to access the documentation.
 
-#### :medal_military: Quality and reliability
-Automatic updating of the documentation every time new versions of the software are released ensures that the documentation is always up to date. This reduces the risk of outdated or inaccurate information.
-
 #### 🔎 Built-in quick search
 Via automatic indexing and a simple, globally accessible search field, topics and sections relating to the entered keywords are suggested.
 This supports quick and easy access to exactly the documentation users demand without the need for manual maintenance of tables of contents and subject summaries.
+
+#### :medal_military: Quality and reliability
+Automatic updating of the documentation every time new versions of the software are released ensures that the documentation is always up to date. This reduces the risk of outdated or inaccurate information.
+
 
 ## Maximizing Software Quality & Efficiency with Reusability
 
