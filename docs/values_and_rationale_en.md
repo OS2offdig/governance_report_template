@@ -1,6 +1,6 @@
 # Open Source from OS²
 
-## Business values and effective operational advantages across applications
+## Uniform business values and effective operational advantages across applications
 
 ##### 🇩🇰 [Read in danish](../docs/values_and_rationale_da.md)
 
