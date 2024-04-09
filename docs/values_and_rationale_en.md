@@ -40,29 +40,24 @@ Automatic updating of the documentation every time new versions of the software 
 ###### Principles used:  [Upstream first](https://ospo-alliance.org/ggi/activities/upstream_first/)
 
 
-- Shared Maintenance: When changes are contributed upstream, the maintenance burden for those changes is shared with the community, reducing the load on your own team.
+#### 📤 Shared Maintenance:
+When changes are contributed upstream, the maintenance burden for those changes is shared with the community, reducing the load on your own team.
 
-- Improved Security:
+
+#### 🛡️ Improved Security:
  Open source software (OSS) is developed by a large community. It’s rigorously tested and vulnerabilities are patched quickly. 
 
-- Improvec Quality:
+
+#### 🌟 Quality:
 OSS taps into a global pool of talent, leading to better code and quick bug fixes.
 
-- Safely Leverage Advanced Tech:
-    OSS allows businesses to leverage advanced tech and have access to the latest innovations.
-
-
-
-
+#### Safely Leverage Advanced Tech:
+OSS allows businesses to leverage advanced tech and have access to the latest innovations.
 
 #### Lower TCO / Cost efficiency
 0 licensing fees
 As a result of these factors, the Total Cost of Ownership (TCO) of open source solutions is often significantly lower than that of proprietary software.
 
-
-
-#### Quality:
-OSS taps into a global pool of talent, leading to better code and quick bug fixes.
 
 #### Customizability:
 OSS delivers a level of flexibility that proprietary software often cannot match.
