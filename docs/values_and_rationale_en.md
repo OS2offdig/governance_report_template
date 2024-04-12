@@ -14,10 +14,9 @@ Contributions to the documentation take place in simple text documents with simp
 
 #### ✅ Consistency and standardization
 The documentation can be kept in a uniform style and formatting across all documents. This makes it easier for users to navigate and understand the content.
-It reduces confusion and ensures that all documents follow the same standard
 
-#### 🔀 Transparency and cooperation
-Documents are versioned alongside the source code, with the same toolbox. This allows you to see how the documentation has evolved and track changes. It improves transparency and collaboration, and reduces context switching making it easy to contribute to the documentation without interruption.
+#### 🔀 Transparency and collaboration
+Documents are managed together with the source code in an open version control system. Everyone can follow how the documentation has developed over time and it is easy to track changes and understand why they were made. Developers, technical editors and other stakeholders can collaborate on the documentation with shared methods and tools. This reduces context switching between systems and promotes a common understanding of the task at hand.
 
 ## Streamlined up-to-date documentation with open access and built in search 
 _Using modern documentation technology and automation metods like Continous Integration, An open and searchable documentation portal is delivered automatically when the documentation is updated_
