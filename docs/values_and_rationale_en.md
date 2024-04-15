@@ -6,7 +6,7 @@
 
 ## Low Barriers for Transparency and Consistency in the Documentation Process
 
-_By integrating our documentation process directly with the source code, we create a seamless environment for maintaining and updating our documentation, paving a clear path for keeping it up to date._
+_By integrating the documentation process directly with the source code, a seamless environment for maintaining and updating the documentation is established. This flexible approach paves a clear path for keeping the documentation up to date._
 
 ###### Standards & technologies used: [Markdown](https://github.github.com/gfm/#what-is-github-flavored-markdown-) | [Github &amp; Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) | [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
 
@@ -42,7 +42,7 @@ This supports quick and easy access to exactly the documentation users demand wi
 Automatic updating of the documentation every time new versions of the software are released ensures that the documentation is always up to date. This reduces the risk of outdated or inaccurate information.
 
 
-## Maximizing Software Quality & Efficiency with Reusability
+## Improving Software Quality & Efficiency with Reusability
 
 ###### Principles used:  [Upstream first](https://ospo-alliance.org/ggi/activities/upstream_first/)
 
@@ -50,39 +50,23 @@ Automatic updating of the documentation every time new versions of the software 
 
 When the investment is made in reuse of an existing solution, all the work that needs to be done, regarding to bugfixing, security patching and general maintenance is done once and in the same place. All projects reusing a certain component benefits from the collective maintenance work. This drastically reduces the effort needed to keep the software secure and up do date and takes advantage of collective quality control measures.
 
+#### 🌟 An innovative edge in development:
+
+By reusing existing components, the product development can tap into a global pool of talent, and a huge catalog of advanced technolgies. Choosing the correct components from healthy and wellmaintained communities is essential, but when planned correctly, reuse can deliver huge leaps in value as innovations and advanced technology is now available to the software project in tested and standaardized forms.
+
+#### Reuse derived effects
+
+To get a piece of software into a state where it is easy to re-use is an investment. But once the reusability is built in to the core architecture a bunch of derieved effects appears, delivering som maybe unexpected benefits... Apart from being developed in the open, to be eaeffectively reusable the solution needs to be easy to move and run on different platforms. This secures a built-in guarantee for low risk of lock-ins to single vendors, as the exit strategy is embedded in the solutions architectural pattern.
 
 
 
 
-## 🛡️ Confidence in security states
-
-open code reviews, open discussions in issues.
 
 
+#### 👁️ Transparency:
 
-It’s rigorously tested by thousands of independent people and vulnerabilities are patched quickly. Everything is done in the open. while this might be counter intuitive ..
+Open Source Software is founded on transparency and collaboration, fostering trust in digital infrastructure. This transparency enables everyone to scrutinize the way the software’s operates. This gives everyone the freedon to delegate the review and assesesment of the product’s security, efficiency, and quality to independent experts, mitigating the risk of blind trust and bottlenecks in the development flow.
 
-Diverse solutions because of a diverse set of eyes are on the problem.
-
-1. **Transparency and Accountability** : Open-source software (OSS) is inherently transparent. Anyone can inspect the source code, identify security vulnerabilities, and propose fixes. This transparency leads to accountability, as it’s clear who is responsible for addressing the issue. In contrast, proprietary software is a black box. Users must trust the vendor to identify and fix vulnerabilities, with no way to verify their claims.
-
-1. **Community Involvement** : OSS often has a community of developers and users who contribute to its improvement. When a security vulnerability is identified, anyone in the community can work on a fix. This allows for potentially faster and more diverse solutions. In proprietary software, only the vendor’s team can address vulnerabilities, which may lead to slower response times and less innovative solutions.
-3. **Resource Allocation** : With OSS, resources can be allocated flexibly. If a particular vulnerability is deemed critical, additional resources can be directed towards it by the community. In proprietary software, resource allocation decisions are made behind closed doors, and users have no influence over them.
-4. **Visibility of Progress** : OSS allows for real-time tracking of the progress made in addressing vulnerabilities. Users can see who is working on a fix and how far they’ve come. This is not possible with proprietary software, where progress is typically not disclosed until a fix is released.
-5. **Trust and Control** : Ultimately, the OSS approach gives users more trust and control. They can verify for themselves that vulnerabilities are being addressed, and they can contribute to the solution if they choose. With proprietary software, users must place their trust in the vendor, with no way to verify their claims or contribute to the solution.
-
-
-#### Transparency:
-
-Open Source Software (OSS) is founded on transparency and collaboration, fostering trust in digital infrastructure. This transparency enables everyone to scrutinize the way the software’s operates, unlike proprietary software where the source code is unavailable. That gives you the freedon to delegate the review and assesesment of the product’s security, efficiency, and quality to independent experts, mitigating the risk of blind trust.
-
-#### 🌟 Quality:
-
-OSS taps into a global pool of talent, leading to better code and quick bug fixes.
-
-#### Safely Leverage Advanced Tech:
-
-OSS allows businesses to leverage advanced tech and have access to the latest innovations.
 
 #### Lower TCO / Cost efficiency
 
@@ -98,8 +82,6 @@ When external changes happend, they are not always communicated all the way down
 
 OSS provides the freedom to use, modify, and redistribute the software. Businesses aren’t locked into a single vendor and can collaborate to improve the software.
 
-#### T
-
 #### Interoperability:
 
 OSS is usually compatible with other software applications, making it easier to integrate into various systems and saving time and money.
@@ -112,3 +94,27 @@ An upstream-first policy ensures that any changes your business makes to the ope
 - Influence: Contributing to the upstream project can give your business a say in the project’s direction, allowing you to help shape the software in a way that benefits your business.
 
 Safely Leverage Advanced Tech: OSS allows businesses to leverage advanced tech and have access to the latest innovations.
+
+## 🛡️ Confidence in security states
+By following a transparent issue handling workflow, organizations can verify for themselves if a certain vulnerability is being worked on actively. It is possible to adress the involved parties directly and discuss the resolution in real-time, while it is being worked on. 
+
+and they can contribute to the solution if they choose.
+
+open code reviews, open discussions in issues.
+
+
+
+It’s rigorously tested by thousands of independent people and vulnerabilities are patched quickly. Everything is done in the open. while this might be counter intuitive ..
+
+Diverse solutions because of a diverse set of eyes are on the problem.
+
+1. **Transparency and Accountability** : Open-source software (OSS) is inherently transparent. Anyone can inspect the source code, identify security vulnerabilities, and propose fixes. This transparency leads to accountability, as it’s clear who is responsible for addressing the issue. In contrast, proprietary software is a black box. Users must trust the vendor to identify and fix vulnerabilities, with no way to verify their claims.
+
+1. **Community Involvement** : OSS often has a community of developers and users who contribute to its improvement. When a security vulnerability is identified, anyone in the community can work on a fix. This allows for potentially faster and more diverse solutions. In proprietary software, only the vendor’s team can address vulnerabilities, which may lead to slower response times and less innovative solutions.
+
+3. **Resource Allocation** : With OSS, resources can be allocated flexibly. If a particular vulnerability is deemed critical, additional resources can be directed towards it by the community. In proprietary software, resource allocation decisions are made behind closed doors, and users have no influence over them.
+
+4. **Visibility of Progress** : OSS allows for real-time tracking of the progress made in addressing vulnerabilities. Users can see who is working on a fix and how far they’ve come. This is not possible with proprietary software, where progress is typically not disclosed until a fix is released.
+
+5. **Trust and Control** : Ultimately, the OSS approach gives users more trust and control.  With proprietary software, users must place their trust in the vendor, with no way to verify their claims or contribute to the solution.
+
