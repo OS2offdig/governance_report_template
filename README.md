@@ -20,39 +20,39 @@ Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 
 ## RELEVANS
 
-| 🔽 | #  | Krav                                                     | Henvisning                | Niveau |
-| -- | -- | -------------------------------------------------------- | ------------------------- | ------ |
-|    | R1 | Løsningen skaber lokal værdi                           | Hvordan?                  | 0      |
-|    | R2 | Løsningen er accepteret af lokal linjeledelse           | fx tilslutningserklæring | 2      |
-|    | R3 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Hvordan?                  | 2      |
-|    | R4 | Ophæng til nationale strategier er til stede            | Hvordan/hvilke?           | 3      |
+| 🔽 | #  | Krav                                                     | Henvisning                | Niveau    |
+| -- | -- | -------------------------------------------------------- | ------------------------- | --------- |
+|    | R1 | Løsningen skaber lokal værdi                           | Hvordan?                  | sandkasse |
+|    | R2 | Løsningen er accepteret af lokal linjeledelse           | fx tilslutningserklæring | 2         |
+|    | R3 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Hvordan?                  | 2         |
+|    | R4 | Ophæng til nationale strategier er til stede            | Hvordan/hvilke?           | 3         |
 
 ## FORMKRAV
 
-|  | #   | Krav                                                                                                                                            | Henvisning                                                          | Niveau |
-| - | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ------ |
-|  | F1  | Kildekoden deles                                                                                                                                | Indsæt link                                                        | 0      |
-|  | F2  | Open Soruce licenskriterier overholdes                                                                                                          | Indsæt vedtaget licens                                             | 0      |
-|  | F3  | Udbudsregler og alm. lovformlighed er overholdt                                                                                                 | Kan udfyldes                                                        | 0      |
-|  | F4  | Der er tænkt på sikkerheden i løsningen                                                                                                      | Hvordan?                                                            | 0      |
-|  | F5  | Løsningens formål og værdi er beskrevet                                                                                                      | Hvor?                                                               | 0      |
-|  | F6  | Kildekoden er overdraget og er placeret under OS2's github                                                                                      | Indsæt link                                                        | 1      |
-|  | F7  | Driftskrav til løsningen er dokumenteret                                                                                                       | Hvor?                                                               | 1      |
-|  | F8  | Løsningen er dokumenteret på teknisk niveau                                                                                                   | Hvor?                                                               | 1      |
-|  | F9  | Teknisk implementering af løsningen er dokumenteret                                                                                            | Hvor?                                                               | 1      |
-|  | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)                                                                                                   | Indsæt link(s)                                                     | 1      |
-|  | F11 | OS2's styringsværktøj benyttes (Jira)                                                                                                         | Indsæt link(s)                                                     | 1      |
-|  | F12 | Der er kun en version af core koden (Master)                                                                                                    |                                                                     | 2      |
-|  | F13 | Der er udarbejdet præsentationsmateriale af løsningen                                                                                         | Hvor?                                                               | 2      |
-|  | F14 | Der er udarbejdet kommunikationsmateriale til strategisk niveau                                                                                 | Hvor?                                                               | 2      |
-|  | F15 | Best practice for implementering i organisationen dokumenteres                                                                                  | Hvor?                                                               | 2      |
-|  | F16 | Teknisk dokumentation indeholder best practice for kodestandarder i forhold til de anvendte teknologier                                         | Hvor?                                                               | 2      |
-|  | F17 | Drifts og vedligeholdelses setup er beskrevet                                                                                                   | Hvem drifter løsningen? er der sat økonomi af til vedligholdelse? | 2      |
-|  | F18 | Rammearkitekturen og standarder er fulgt og afvigelser er forklaret                                                                             |                                                                     | 2      |
-|  | F19 | _Løsningen er leveret i et containerformat fx docker (anbefaling)_                                                                           |                                                                     | 2      |
-|  | F20 | _Uddanelses materiale er udarbejdet (anbefaling)_                                                                                             | Hvor?                                                               | 2      |
-|  | F21 | Politisk kommunikation er udarbejdet (Lokal + Omverden)                                                                                         | Hvor?                                                               | 3      |
-|  | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet ([eksempel](https://os2mo.readthedocs.io/en/development/operation/cookbook.html)) | Hvor?                                                               | 3      |
+|  | #   | Krav                                                                                                                                            | Henvisning                                                          | Niveau    |
+| - | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------- |
+|  | F1  | Alt kildekode til projektet udvikles synligt og aktivt i et repositorie og versionskontrolsystem, anvist af Os2                                                                                                                               | Indsæt link                                                        | sandkasse |
+|  | F2  | Open Source licenskriterier overholdes                                                                                                          | Indsæt vedtaget licens                                             | sandkasse |
+|  | F3  | Udbudsregler og alm. lovformlighed er overholdt                                                                                                 | Kan udfyldes                                                        | sandkasse |
+|  | F4  | Der er tænkt på sikkerheden i løsningen                                                                                                      | Hvordan?                                                            | sandkasse |
+|  | F5  | Løsningens formål og værdi er beskrevet                                                                                                      | Hvor?                                                               | sandkasse |
+|  | F6  | Kildekoden er overdraget og er placeret under OS2's github                                                                                      | Indsæt link                                                        | 1         |
+|  | F7  | Driftskrav til løsningen er dokumenteret                                                                                                       | Hvor?                                                               | 1         |
+|  | F8  | Løsningen er dokumenteret på teknisk niveau                                                                                                   | Hvor?                                                               | 1         |
+|  | F9  | Teknisk implementering af løsningen er dokumenteret                                                                                            | Hvor?                                                               | 1         |
+|  | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)                                                                                                   | Indsæt link(s)                                                     | 1         |
+|  | F11 | OS2's styringsværktøj benyttes (Jira)                                                                                                         | Indsæt link(s)                                                     | 1         |
+|  | F12 | Der er kun en version af core koden (Master)                                                                                                    |                                                                     | 2         |
+|  | F13 | Der er udarbejdet præsentationsmateriale af løsningen                                                                                         | Hvor?                                                               | 2         |
+|  | F14 | Der er udarbejdet kommunikationsmateriale til strategisk niveau                                                                                 | Hvor?                                                               | 2         |
+|  | F15 | Best practice for implementering i organisationen dokumenteres                                                                                  | Hvor?                                                               | 2         |
+|  | F16 | Teknisk dokumentation indeholder best practice for kodestandarder i forhold til de anvendte teknologier                                         | Hvor?                                                               | 2         |
+|  | F17 | Drifts og vedligeholdelses setup er beskrevet                                                                                                   | Hvem drifter løsningen? er der sat økonomi af til vedligholdelse? | 2         |
+|  | F18 | Rammearkitekturen og standarder er fulgt og afvigelser er forklaret                                                                             |                                                                     | 2         |
+|  | F19 | _Løsningen er leveret i et containerformat fx docker (anbefaling)_                                                                           |                                                                     | 2         |
+|  | F20 | _Uddanelses materiale er udarbejdet (anbefaling)_                                                                                             | Hvor?                                                               | 2         |
+|  | F21 | Politisk kommunikation er udarbejdet (Lokal + Omverden)                                                                                         | Hvor?                                                               | 3         |
+|  | F22 | Procesplan + procesansvar for driftsimplementering er udarbejdet ([eksempel](https://os2mo.readthedocs.io/en/development/operation/cookbook.html)) | Hvor?                                                               | 3         |
 
 ## STRATEGISK SAMMENHÆNG
 
