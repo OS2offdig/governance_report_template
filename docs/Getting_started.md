@@ -28,7 +28,7 @@ positive impact.*
 
 🔍 **Look upstream for fitting projects**
 
-> Before your impulse to start coding sets in, reserve time and effort together with your team to research and evaluate upstream solutions. Theres probably allready a viable solution out there that just needs a tweak and an upstream contribution. Reach out, discuss your suggestions with OS2 and create an [Architectural Decision Record](https://adr.github.io/) documenting your design choices.
+> Before your impulse to start coding sets in, reserve time and effort together with your team to research and evaluate upstream solutions. Theres probably already a viable solution out there that just needs a tweak and an upstream contribution. Reach out, discuss your suggestions with OS2 and create an [Architectural Decision Record](https://adr.github.io/) documenting your design choices.
 
 🔀 **Contribute code and docs to issue branches**
 
