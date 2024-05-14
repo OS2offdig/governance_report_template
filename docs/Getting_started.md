@@ -14,11 +14,9 @@ positive impact.*
 
 :loudspeaker: **Request a sandbox**
 
-> Request a sandbox repo in the os2 sandbox
+> Send os an [email](os2@os2.eu) and request a [OS2 Sandbox - GitHub](https://github.com/OS2sandbox/) repository and an onboarding session with OS2 where we set up repositories, automations, builds and etc. together based on our existing templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
 > 
-> Participate in setting up repository with documentation, automations, builds etc. using the os2 templates.
-> 
-> [OS2 Sandbox - GitHub](https://github.com/OS2sandbox/) - email: os2@os2.eu
+> email: os2@os2.eu
 
 :pencil: **Document user stories**
 
@@ -32,4 +30,4 @@ positive impact.*
 
 :twisted_rightwards_arrows: **Contribute code and docs to issue branches**
 
-> Following the [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow), contribute your code and docs to the documented issues by creating a branch for each issue to isolate your work and enable reviews before it is accepted into the branch that holds the user story. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when your work is tested and ready for review. After acceptance testing, the Product Owner can merge the finished feature that solves the user story into the main branch. Get in touch with OS2 if there is questions about this workflow.
+> Following the [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow), contribute your code and docs to the documented issues by creating a branch for each issue to isolate your work and enable reviews before it is accepted into the branch that holds the user story. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when your work is tested and ready for review. After acceptance testing, the Product Owner can merge the finished feature that solves the user story into the main branch. Get in touch with OS2 if there is questions about this workflow.[]
