@@ -14,20 +14,20 @@ positive impact.*
 
 :loudspeaker: **Request a sandbox**
 
-> Send os an [email](os2@os2.eu) and request a [OS2 Sandbox - GitHub](https://github.com/OS2sandbox/) repository and an onboarding session with OS2 where we set up repositories, automations, builds and etc. together based on our existing templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
+> Send os an [email](os2@os2.eu) and request a [OS2 Sandbox - GitHub](https://github.com/OS2sandbox/) repository and an onboarding session with OS2 where we set up repositories, automations, builds, github issues as issue-tracker and etc. together based on our existing templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
 > 
 > email: os2@os2.eu
 
 :pencil: **Document user stories**
 
-> Use GitHub issues to create user stories and assign individual tasks to the stories. Add labels to the issues and assign the stories and tasks to Milestones.
+> To enable relations between the business value created by user stories and your technical tasks, use GitHub issues to create and track them alongside each other. Add labels to the issues and assign the stories and tasks to Milestones. An example of this can be requested in an onboarding session with os2.
 > 
 > [Quickstart for GitHub Issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 
-:mag: **Look upstream for fitting projects**
+:recycle: **Design the solution with reusable parts**
 
-> Before your impulse to start coding sets in, reserve time and effort together with your team to research and evaluate upstream solutions. Theres probably already a viable solution out there that just needs a tweak and an upstream contribution. Reach out, discuss your suggestions with OS2 and create an [Architectural Decision Record](https://adr.github.io/) documenting your design choices.
+> Before the impulse to start developing new solutions sets in, remember theres probably already a viable solution out there that just needs a tweak and an upstream contribution. Reach out, discuss your suggestions with OS2 and create an [Architectural Decision Record](https://adr.github.io/) documenting your design choices.
 
-:twisted_rightwards_arrows: **Contribute code and docs to issue branches**
+:twisted_rightwards_arrows: **Streamline contributions through collaborative reviews**
 
-> Following the [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow), contribute your code and docs to the documented issues by creating a branch for each issue to isolate your work and enable reviews before it is accepted into the branch that holds the user story. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when your work is tested and ready for review. After acceptance testing, the Product Owner can merge the finished feature that solves the user story into the main branch. Get in touch with OS2 if there is questions about this workflow.[]
+> Following the [GitHub Flow](https://docs.github.com/en/get-started/using-github/github-flow), contribute code and docs to the documented issues by creating a branch for each issue to isolate your work and enable collaborating on reviews. Create a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) when your work is tested and ready for review. After acceptance testing, the Product Owner can merge the finished feature that solves the user story into the main branch. Get in touch with OS2 if you need to be onboarded to this development flow standard.
