@@ -66,4 +66,4 @@ positive impact.*
 
 :books: **Initiate automated documentation practices from the outset**
 
-> Start by cloning the [Os2 documentation template.]([GitHub - OS2offdig/os2-docs-template: Standard template for documentation in OS2 products](https://github.com/OS2offdig/os2-docs-template)) This automate the set up a simple searchable documentation site, ready to recive your docs. Start by including a README and document how to get started with developing and how to get at quick local version up and running.
+> Start by cloning the [Os2 documentation template.]([GitHub - OS2offdig/os2-docs-template: Standard template for documentation in OS2 products](https://github.com/OS2offdig/os2-docs-template)) This automatse the set up a simple searchable documentation site, ready to recive your docs. Start by including a README and document how to get started with developing and how to get at quick local version up and running.
