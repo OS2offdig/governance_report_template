@@ -24,9 +24,11 @@ positive impact.*
 > 
 > [Quickstart for GitHub Issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 
-:recycle: **Design the solution with reusable parts**
+:recycle: **Design the solution with reusable components**
 
-> Before the impulse to start developing new solutions sets in, remember theres probably already a viable solution out there that just needs a tweak and an upstream contribution. Reach out, discuss your suggestions with OS2 and create an [Architectural Decision Record](https://adr.github.io/) documenting your design choices.
+> To establish a foundation for a [cost efficient, interoperable and transparent project](https://urn.kb.se/resolve?urn=urn:nbn:se:ri:diva-72465), reuse existing, well-maintained open source components in your architecture. Even if a component isn’t a perfect fit, contributing to an existing project can save a lot of maintenance time and resources, compared to creating a duplicate of a common component from scratch.
+
+> Reach out and discuss your suggestions with OS2 and create an [Architectural Decision Record](https://adr.github.io/) documenting your design choices.
 
 :twisted_rightwards_arrows: **Streamline contributions through collaborative reviews**
 
