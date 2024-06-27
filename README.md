@@ -56,9 +56,9 @@ Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 
 |  | #  | Krav                                                                                                                          | Henvisning | Niveau |
 | - | -- | ----------------------------------------------------------------------------------------------------------------------------- | ---------- | ------ |
-|  | S1 | Produktet har en kobling til[OS2&#39;s strategi](https://os2.eu/side/os2-mission-vision)                                         | Hvordan?   | 1      |
+|  | S1 | Produktet har en kobling til [OS2&#39;s strategi](https://www.os2.eu/os2s-vision-og-mission)                                         | Hvordan?   | 1      |
 |  | S2 | Løsningen understøtter innovation og open source                                                                            | Hvordan?   | 1      |
-|  | S3 | Produktets (forventlige) kobling til[OS2&#39;s mission, vision og strategi](https://os2.eu/side/os2-mission-vision) er beskrevet | Hvor?      | 2      |
+|  | S3 | Produktets (forventlige) kobling til [OS2&#39;s mission, vision og strategi](https://www.os2.eu/os2s-vision-og-mission) er beskrevet | Hvor?      | 2      |
 |  | S4 | Der er udarbejdet en vision og strategi for produktet                                                                         | Hvor?      | 2      |
 |  | S5 | Produktets kobling til og overensstemmelse med OS2's vision og strategi er tilstede og beskrevet                              | Hvordan?   | 3      |
 
