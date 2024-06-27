@@ -31,7 +31,7 @@ Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 
 |  | #   | Krav                                                                                                                                            | Henvisning                                                          | Niveau    |
 | - | --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------- |
-|  | F1  | Alt kildekode til projektet udvikles synligt og aktivt i et repositorie og versionskontrolsystem, anvist af Os2                                                                                                                               | Indsæt link                                                        | sandkasse |
+|  | F1  | Alt kildekode til projektet udvikles synligt og aktivt i et repositorie og versionskontrolsystem, anvist af Os2                                 | Indsæt link                                                        | sandkasse |
 |  | F2  | Open Source licenskriterier overholdes                                                                                                          | Indsæt vedtaget licens                                             | sandkasse |
 |  | F3  | Udbudsregler og alm. lovformlighed er overholdt                                                                                                 | Kan udfyldes                                                        | sandkasse |
 |  | F4  | Der er tænkt på sikkerheden i løsningen                                                                                                      | Hvordan?                                                            | sandkasse |
@@ -41,7 +41,7 @@ Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 |  | F8  | Løsningen er dokumenteret på teknisk niveau                                                                                                   | Hvor?                                                               | 1         |
 |  | F9  | Teknisk implementering af løsningen er dokumenteret                                                                                            | Hvor?                                                               | 1         |
 |  | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)                                                                                                   | Indsæt link(s)                                                     | 1         |
-|  | F11 | Der anvendes offentlig issue-tracking anvist af OS2, hvor der tydeligt henvises til specifikke kodeændringer                                                                                                         | Indsæt link(s)                                                     | 1         |
+|  | F11 | Der anvendes offentlig issue-tracking anvist af OS2, hvor der tydeligt henvises til specifikke kodeændringer                                   | Indsæt link(s)                                                     | 1         |
 |  | F12 | Der er kun en version af core koden (Master)                                                                                                    |                                                                     | 2         |
 |  | F13 | Der er udarbejdet præsentationsmateriale af løsningen                                                                                         | Hvor?                                                               | 2         |
 |  | F14 | Der er udarbejdet kommunikationsmateriale til strategisk niveau                                                                                 | Hvor?                                                               | 2         |
@@ -82,9 +82,3 @@ Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 |  | G12 | Bestyrelsen er repræsenteret i styregruppen                                         | fx link til referat                               | 3      |
 |  | G13 | Der foreligger en aftale der sikre økonomi til koordinerg og videreudvikling        | Link til aftale                                   | 3      |
 |  | G14 | Der er etableret et fagligt fælleskab bag løsningen hvor erfaringer kan udveksles  | Henvisning til en faggruppe eller et forum        | 3      |
-
-##LOG
-
-| Dato       | Handling                      | Udført af                     |
-| ---------- | ----------------------------- | ------------------------------ |
-| 2023-01-26 | Husk at hold loggen opdateret | Rasmus Frey, OS2-sekretariatet |
