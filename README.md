@@ -24,7 +24,7 @@ Hvis feltet efterlades tomt, betragtes evalueringen som ikke færdiggjort.
 | -- | -- | -------------------------------------------------------- | ------------------------- | --------- |
 |    | R1 | Løsningen skaber lokal værdi                           | Hvordan?                  | sandkasse |
 |    | R2 | Løsningen er accepteret af lokal linjeledelse           | fx tilslutningserklæring | 2         |
-|    | R3 | _Løsningen har tværkommunal potentiale (anbefaling)_ | Hvordan?                  | 2         |
+|    | R3 | Løsningen har fælles offentligt potentiale | Hvordan?                  | 2         |
 |    | R4 | Ophæng til nationale strategier er til stede            | Hvordan/hvilke?           | 3         |
 
 ## FORMKRAV
