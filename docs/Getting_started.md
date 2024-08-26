@@ -20,7 +20,7 @@ positive impact.*
 
 :pencil: **Describe the user stories**
 
-> To enable relations between the business value created by user stories and your technical tasks, use GitHub issues to create and track them alongside each other. Add labels to the issues and assign the stories and tasks to Milestones. An example of this can be requested in an onboarding session with os2.
+> To enable relations between the business value created by [user stories](https://www.boost.co.nz/blog/2010/09/user-stories#introduction-to-user-stories---blog-series) and your technical tasks, use GitHub issues to create and track them alongside each other. Add labels to the issues and assign the stories and tasks to Milestones. An example of this can be requested in an onboarding session with os2.
 > 
 > [Quickstart for GitHub Issues - GitHub Docs](https://docs.github.com/en/issues/tracking-your-work-with-issues/quickstart)
 
