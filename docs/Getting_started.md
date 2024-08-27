@@ -6,15 +6,15 @@
 contributing. This guide outlines how you can get involved and make a
 positive impact.*
 
-:unlock: **Get access!**
+:unlock: **Get access**
 
 > Make sure all participants have github accounts and have at least run through a basic tutorial on git and github.
 > 
 > [Start your journey - GitHub Docs](https://docs.github.com/en/get-started/start-your-journey)
 
-🤝 **Request an oboarding**
+🤝 **Participate in an onboarding session**
 
-> Send os an [email](os2@os2.eu) and request an onboarding session with OS2. We set up the project organization with repositories, automations, ci, builds, issue-tracker based on our templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
+> Send os an [email](os2@os2.eu) and request an onboarding session with OS2. Depending on your projects state we set up a fitting project organization with repositories, automations, ci, builds, issue-tracker etc. based on our templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
 > 
 > email: [os2@os2.eu](mailto:os2@os2.eu)
 
