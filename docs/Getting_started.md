@@ -2,7 +2,7 @@
 
 # Getting Started
 
-*Welcome to our OS2 project! We appreciate your interest in
+*Welcome to OS2! We appreciate your interest in
 contributing. This guide outlines how you can get involved and make a
 positive impact.*
 
@@ -12,9 +12,9 @@ positive impact.*
 > 
 > [Start your journey - GitHub Docs](https://docs.github.com/en/get-started/start-your-journey)
 
-:loudspeaker: **Request a sandbox**
+🤝 **Request an oboarding**
 
-> Send os an [email](os2@os2.eu) and request a [OS2 Sandbox - GitHub](https://github.com/OS2sandbox/) repository and an onboarding session with OS2 where we set up repositories, automations, builds, github issues as issue-tracker and etc. together based on our existing templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
+> Send os an [email](os2@os2.eu) and request an onboarding session with OS2. We set up the project organization with repositories, automations, ci, builds, issue-tracker based on our templates currently located in [OS2 – Offentligt Digitaliseringsfællesskab · GitHub](https://github.com/OS2offdig)
 > 
 > email: [os2@os2.eu](mailto:os2@os2.eu)
 
