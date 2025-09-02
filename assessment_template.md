@@ -2,7 +2,9 @@
 
 > **📄 Dokumentinformation**  
 > **Evalueringsskabelon version:** 0.9  
-> **Dato for udfyldelse:** [dd-mm-yyyy]
+> **Dato for udfyldelse:** [dd-mm-yyyy]  
+> **GitHub organisation:** [insert link to github org]  
+> **OS2 website link:** [insert link to product website]
 
 ## 🌍 RELEVANS
 
@@ -67,11 +69,24 @@
 | G13  | 3         | Aftale sikrer økonomi til koordinering og videreudvikling  | Standard: Aftaler om finansiering er på plads og budget udarbejdet.           | 🟢 / 🟡 / 🔴 |                       |
 | G14  | 3         | Fagligt fællesskab bag løsningen                           | Standard: Aktivt fællesskab, fx brugerklub, forum eller andet netværk.        | 🟢 / 🟡 / 🔴 |                       |
 
-
 ---
 
-### 🔍 Overordnet vurdering
-[Her skrives en samlet vurdering: hvilke styrker, hvilke forbedringspunkter, anbefalinger til næste skridt.]
+### ➡️ Antal krav fordelt på tema
+* Relevans: *4 krav* (R1–R4)
+* Formkrav: *20 krav* (F1–F22, minus F8 og F9 som er sammenlagt med F7)
+* Strategisk sammenhæng: *5 krav* (S1–S5)
+* Governance: *14 krav* (G1–G14)
+* *I alt: 43 krav*
+
+### ➡️ Antal krav fordelt på niveau
+
+Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse og niveau 2.
+
+* Sandkasse: *6 krav*
+* Niveau 1: *10 krav* (16 i alt)
+* Niveau 2: *19 krav* (35 i alt)
+* Niveau 3: *8 krav* (43 i alt)
+* *I alt: 43 krav*
 
 ---
 
@@ -82,7 +97,7 @@
 
 ---
 
-### 📊 Optælling af vurderinger pr. niveau
+### 📊 Optælling af vurderinger pr. niveau og tema
 
 | Niveau      | 🟢 Grøn  | 🟡 Gul   | 🔴 Rød   | I alt |
 |-------------|----------|---------|---------|-------|
@@ -91,6 +106,15 @@
 | Niveau 2    | xx       | xx      | xx      | xx    |
 | Niveau 3    | xx       | xx      | xx      | xx    |
 | **Samlet**  | xx       | xx      | xx      | xx    |
+
+
+| Tema / Niveau        | Sandkasse<br/>(6 krav)   | Niveau 1<br/>(6+10 krav) | Niveau 2<br/>(19 + 16 krav) | Niveau 3<br/>>(8 + 35 krav) | Total |
+|----------------------|--------------------------|--------------------------|-----------------------------|-----------------------------|-------|
+| Relevans             | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
+| Formkrav             | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
+| Strategisk sammenhæng| 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
+| Governance           | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
+| **Samlet**           | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | 43    |
 
 ---
 
@@ -101,12 +125,18 @@
 - **Niveau 2:** Drift, vedligehold og strategisk understøttelse – mange 🟡 eller 🔴 her peger på modenhedsproblemer.  
 - **Niveau 3:** Avanceret governance og fællesskab – et område, hvor ikke alle produkter nødvendigvis når i mål, men som er ønskværdigt for stabile og bæredygtige produkter.
 
----
-
-### 📈 Anbefaling
-
 Ud fra optællingen kan vi vurdere, hvor produktet står samlet set:
+
 - Mange 🟢 → Produktet er solidt forankret i governance-kravene.
 - Mange 🟡 → Produktet har et godt grundlag, men kræver en prioriteret indsats på udvalgte områder.
 - Mange 🔴 → Produktet har alvorlige governance-mangler og kræver en struktureret genopretning.
 
+---
+
+### 🔍 Overordnet vurdering
+[Her skrives en samlet vurdering: hvilke styrker, hvilke forbedringspunkter, anbefalinger til næste skridt.]
+
+---
+
+### 📈 Anbefaling
+[Her skrives et overblik over anbefalinger - gerne i punktform]
