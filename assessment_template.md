@@ -7,6 +7,9 @@
 > **GitHub organisation:** [insert link to github org]  
 > **OS2 website link:** [insert link to product website]
 
+## 📝 Resumé
+[Her skrives et meget kort resumé af den samlede vurdering og anbefaling.]
+
 ## 🌍 RELEVANS
 
 | #   | Niveau    | Krav                                             | Vurderingskriterie                                                                  | Vurdering     | Vurderingsgrundlag    |
@@ -109,20 +112,80 @@ Bemærk at der nedarves så et niveau 2 produkt skal også efterleve sandkasse o
 | **Samlet**  | xx       | xx      | xx      | xx    |
 
 
-| Tema / Niveau        | Sandkasse<br/>(6 krav)   | Niveau 1<br/>(6+10 krav) | Niveau 2<br/>(19 + 16 krav) | Niveau 3<br/>>(8 + 35 krav) | Total |
-|----------------------|--------------------------|--------------------------|-----------------------------|-----------------------------|-------|
-| Relevans             | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
-| Formkrav             | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
-| Strategisk sammenhæng| 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
-| Governance           | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | sum   |
-| **Samlet**           | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | 43    |
+| Tema / Niveau        | Sandkasse<br/>(6 krav)   | Niveau 1<br/>(6+10 krav) | Niveau 2<br/>(19 + 16 krav) | Niveau 3<br/>>(8 + 35 krav) | Total                   |
+|----------------------|--------------------------|--------------------------|-----------------------------|-----------------------------|-------------------------|
+| Relevans             | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
+| Formkrav             | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
+| Strategisk sammenhæng| 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
+| Governance           | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z          | 🟢 x 🟡 y 🔴 z             | 🟢 x 🟡 y 🔴 z              | 🟢 sum 🟡 sum 🔴 sum   |
+| **Samlet**           | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z | 🟢x <br/> 🟡y <br/> 🔴z    | 🟢x <br/> 🟡y <br/> 🔴z     | 🟢x <br/> 🟡y <br/> 🔴z|
+
+<!--
+Nedenfor er mermaid kode til at vise procentfordeling i lagkagediagrammer.
+Bemærk at mermaid renderer efter størrelse på værdi. Så er Grøn størst vil det være pie1, men er rød størst vil det være pie1. Derfor skal du ændre på themeVariables så farvekoder bliver korrekte.
+-->
+
+```mermaid
+%%{init: {"themeVariables": {
+  "pie2": "#008000", "pie1": "#FFFF00", "pie3": "#FF0000"
+}}}%%
+pie showData
+  title Sandkasse (6 krav)
+  "Grøn 33%" : 2
+  "Gul 50%"  : 3
+  "Rød 17%"  : 1
+```
+
+```mermaid
+%%{init: {"themeVariables": {
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+}}}%%
+pie showData
+  title Niveau 1 (10 krav)
+  "Grøn 50%" : 5
+  "Gul 40%"  : 4
+  "Rød 10%"  : 1
+```
+
+```mermaid
+  %%{init: {"themeVariables": {
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+}}}%%
+pie showData
+  title Niveau 2 (19 krav)
+  "Grøn 42%" : 8
+  "Gul 42%"  : 8
+  "Rød 16%"  : 3
+```
+
+```mermaid
+%%{init: {"themeVariables": {
+  "pie2": "#008000", "pie3": "#FFFF00", "pie1": "#FF0000"
+}}}%%
+pie showData
+  title Niveau 3 (8 krav)
+  "Grøn 25%" : 2
+  "Gul 25%"  : 2
+  "Rød 50%"  : 4
+```
+
+```mermaid
+%%{init: {"themeVariables": {
+  "pie1": "#008000", "pie2": "#FFFF00", "pie3": "#FF0000"
+}}}%%
+pie showData
+  title Samlet (43 krav)
+  "Grøn 40%" : 17
+  "Gul 40%"  : 17
+  "Rød 20%"  : 9
+```
 
 ---
 
 ### 📋 Hvordan bruges optællingen?
 
 - **Sandkasse:** Grundlæggende formalia – mange 🔴 her betyder, at produktet skal løftes bare for at blive betragtet som OS2-kompatibelt.  
-- **Niveau 1:** Basis governance og dokumentation – vigtigt for at skabe overblik og ejerskab.  
+- **Niveau 1:** Basis governance og dokumentation – – mange 🟡 eller 🔴 her peger på udfordringer med at skabe overblik og ejerskab.   
 - **Niveau 2:** Drift, vedligehold og strategisk understøttelse – mange 🟡 eller 🔴 her peger på modenhedsproblemer.  
 - **Niveau 3:** Avanceret governance og fællesskab – et område, hvor ikke alle produkter nødvendigvis når i mål, men som er ønskværdigt for stabile og bæredygtige produkter.
 
