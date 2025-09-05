@@ -3,6 +3,7 @@
 > **📄 Dokumentinformation**  
 > **Evalueringsskabelon version:** 0.9  
 > **Dato for udfyldelse:** [dd-mm-yyyy]  
+> **Audit made by:** [Name], [email]  
 > **GitHub organisation:** [insert link to github org]  
 > **OS2 website link:** [insert link to product website]
 
