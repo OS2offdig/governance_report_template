@@ -1,6 +1,6 @@
 # GUIDE til Governance Report
 
-> Dette er OS2's checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Er du projektleder, koordinator eller på anden måde ansvarlig for et OS2 produkt? Så lav en kopi af denne fil og navngiv den efter produktet. F.eks. __OS2produkt_governance_report.md__ Derefter udfylder du checklisten og publisere den til det relevante repository på Github.
+> Dette er OS2's checkliste der skal benyttes til at belyse niveauet af et OS2 produkt. Er du projektleder, koordinator eller på anden måde ansvarlig for et OS2 produkt? Så lav en kopi af filen og navngiv den efter produktet. F.eks. __OS2produkt_governance_report.md__ Derefter udfylder du checklisten og publisere den til det relevante repository i projektets versionskontrol-system.
 >
 > Du udfylder checklisten ved at anvende en af de følgende markeringer, under  🔽 kolonnen:
 >
@@ -18,7 +18,7 @@
 >
 > Information om OS2's produktniveauer og baggrunden herfor kan der [læses mere om her](https://governance.os2.eu).
 
-# INDSÆT NAVNET PÅ PRODUKTET
+# [INDSÆT NAVNET PÅ PRODUKTET]
 
 Denne checkliste belyser efterlevelsen af OS2's niveaukrav for produktet.
 
@@ -36,15 +36,15 @@ Denne checkliste belyser efterlevelsen af OS2's niveaukrav for produktet.
 
 | 🔽  | #   | Krav                                          | Beskrivelse / Dokumentation | Produktniveau | Retningslinjer                                                                                                        |
 | --- | --- | --------------------------------------------- | ----------------------------| --------------| ----------------------------------------------------------------------------------------------------------------------|
-|     | F1  | Alt kildekode til projektet udvikles synligt og aktivt i et repositorie og versionskontrolsystem, anvist af OS2 |      | sandkasse | Upload al kildekode i et offentligt OS2 GitHub repository med aktiv versionshistorik. |
+|     | F1  | Alt kildekode til projektet udvikles synligt og aktivt i et repositorie og versionskontrolsystem, anvist af OS2 |      | sandkasse | Upload al kildekode i et offentligt OS2 repository med aktiv versionshistorik. |
 |     | F2  | Open Source licenskriterier overholdes                                                                          |      | sandkasse | Angiv hvilken OSI-godkendt licens projektet bruger. OS2 standard er MPL 2.0 |
 |     | F3  | Udbudsregler og alm. lovformlighed er overholdt                                                                 |      | sandkasse | Bekræft at udbudspligt er overholdt eller redegør for undtagelse. Vedlæg evt. beslutningsnotat.|
 |     | F4  | Der er tænkt på sikkerheden i løsningen                                                                         |      | sandkasse | Beskriv hvordan sikkerhed er indtænkt i design, kode og drift – f.eks. kryptering, adgangsstyring. |
 |     | F5  | Løsningens formål og værdi er beskrevet                                                                         |      | sandkasse | Henvis til dokumentation (f.eks. README) hvor formål og målgruppe fremgår.    |
-|     | F6  | Kildekoden er overdraget og er placeret under OS2's github                                                      |      | 1         | Bekræft og link til den officielle OS2 GitHub repository.                     |
+|     | F6  | Kildekoden er overdraget og er placeret under OS2's kontrol                                                      |      | 1         | Bekræft og link til det officielle repository i OS2s versionskontrol.                     |
 |     | F7  | Alt dokumentation til projektet udarbejdes med og overholder OS2s standardskabelon for dokumentation.           |      | 1         | Brug OS2’s standard template til dokumentation. [Documentation template for OS2 projects](http://github.com/OS2offdig/os2-docs-template) |
 |     | F10 | OS2's kommunikationskanaler anvendes (OS2.eu)                                                                   |      | 1         | Bekræft og link til omtale på f.eks. os2.eu, nyhedsbrev eller andet. |
-|     | F11 | Der anvendes offentlig issue-tracking anvist af OS2, hvor der tydeligt henvises til specifikke kodeændringer    |      | 1         | Henvis til f.eks. GitHub Issues, hvor opgaver er koblet til pull-requests/commits. |
+|     | F11 | Der anvendes offentlig issue-tracking anvist af OS2, hvor der tydeligt henvises til specifikke kodeændringer    |      | 1         | Henvis til f.eks. Issues, hvor opgaver er koblet til pull-requests/commits. |
 |     | F12 | Der er kun en version af core koden                                                                             |      | 2         | Bekræft at der kun findes én ‘main’ version og at den er aktivt vedligeholdt. |
 |     | F13 | Der er udarbejdet præsentationsmateriale af løsningen                                                           |      | 2         | Link til f.eks. slides, brochurer eller andet introduktionsmateriale. |
 |     | F14 | Der er udarbejdet kommunikationsmateriale til strategisk niveau                                                 |      | 2         | F.eks. businesscase, one-pager til direktionsniveau og præsentation til udvalg. |
